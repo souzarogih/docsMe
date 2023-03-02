@@ -2,4 +2,6 @@ site_name: Project Docs
 nav:
     - Home: index.md
     - About: about.md
-theme: readthedocs
+    - UrbanServer: urban_server.md
+theme:
+  name: material
